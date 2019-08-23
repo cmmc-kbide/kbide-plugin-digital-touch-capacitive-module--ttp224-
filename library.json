@@ -1,0 +1,17 @@
+{
+  "name" : "kbide-plugin-digital-touch-capacitive-module--ttp224-",
+  "title": "digital-touch-capacitive-module--ttp224-",
+  "keywords": "digital-touch-capacitive-module--ttp224-, esp32, esp8266, arduino",
+  "description": "digital-touch-capacitive-module--ttp224- plugin for KB-IDE",
+  "category":"",
+  "git": "https://github.com/cmmc-kbide/kbide-plugin-digital-touch-capacitive-module--ttp224-/",
+  "author": "cmmakerclub",
+  "email": "",
+  "url": "https://github.com/cmmc-kbide/kbide-plugin-digital-touch-capacitive-module--ttp224-/",
+  "version": "1.0.0",
+  "board" : "",
+  "platform": ["arduino-esp32"],
+  "license": "",
+  "image" : "/static/display.png",
+  "homepage": "http://www.kbide.org"
+}
